@@ -15,4 +15,9 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+<<<<<<< HEAD
 This is a change`
+=======
+
+Anna is changing the README file
+>>>>>>> a1618d831fc2bce264c6c8a36f7a114da2df19c7
