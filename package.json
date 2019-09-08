@@ -1,0 +1,26 @@
+{
+  "name": "tutoring-center",
+  "version": "1.0.0",
+  "description": "Tutoring Center Application",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-bal/Tutoring-Center.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-bal/Tutoring-Center/issues"
+  },
+  "homepage": "https://github.com/m-bal/Tutoring-Center#readme",
+  "dependencies": {
+    "graphql": "^14.5.4"
+  }
+}
